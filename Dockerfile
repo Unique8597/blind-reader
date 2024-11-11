@@ -8,3 +8,5 @@ RUN pip install -r requirements.txt
 COPY . .
 
 CMD ["streamlit","run","app.py"]
+
+EXPOSE 8000
