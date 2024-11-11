@@ -1,0 +1,8 @@
+streamlit==1.29.0
+PIL==10.4.0
+requests==2.30.0
+uuid
+json
+time
+azure-cognitiveservices-vision-computervision==0.9.0
+msrest==0.7.1
